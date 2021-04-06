@@ -1,0 +1,1 @@
+Add-PodeWebPage -Name Settings -Icon Settings -Group Configuration -NoBackArrow -ScriptBlock {}
